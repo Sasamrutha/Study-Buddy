@@ -3,7 +3,7 @@
 > Paste any topic or study note. Get a plain-English explanation,
 > 5-point summary, practice questions, and a downloadable PDF instantly.
 
-**🔗 Live app:** [Click here to use it](https://your-app-url.streamlit.app)
+**🔗 Live app:** [Click here to use it](https://studybuddy-sasamrutha.streamlit.app/)
 
 ---
 
