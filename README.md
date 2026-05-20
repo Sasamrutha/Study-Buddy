@@ -33,9 +33,8 @@
 I am a 3rd year CSE student preparing for end-semester exams.
 Every time I struggled with a new topic, I spent 30 minutes just
 trying to understand it at a basic level. I built this tool to
-solve that — for myself and my classmates.
+solve that.
 
-30+ classmates used it during exam season.
 
 ---
 
