@@ -138,6 +138,10 @@ header {visibility: hidden;}
     font-size: 0.9rem !important;
 }
 
+/* Hide selectbox wrapper box */
+.stSelectbox {
+    display: none !important;
+}
 /* ── Textarea ── */
 .stTextArea textarea {
     background: rgba(255,255,255,0.92) !important;
