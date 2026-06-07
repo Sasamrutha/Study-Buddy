@@ -140,26 +140,26 @@ header {visibility: hidden;}
 
 /* ── Textarea ── */
 .stTextArea textarea {
-    background: rgba(255,255,255,0.07) !important;
-    border: 1.5px solid rgba(255,255,255,0.15) !important;
+    background: rgba(255,255,255,0.92) !important;
+    border: 1.5px solid rgba(255,255,255,0.3) !important;
     border-radius: 14px !important;
-    color: #FFFFFF !important;
+    color: #1A1916 !important;
     font-size: 0.95rem !important;
     font-family: 'Inter', sans-serif !important;
     padding: 14px !important;
-    caret-color: #818CF8 !important;
+    caret-color: #6366F1 !important;
 }
 .stTextArea textarea:focus {
     border-color: #818CF8 !important;
     box-shadow: 0 0 0 3px rgba(129,140,248,0.2) !important;
-    background: rgba(255,255,255,0.09) !important;
+    background: #FFFFFF !important;
 }
 .stTextArea textarea::placeholder {
-    color: rgba(255,255,255,0.3) !important;
+    color: rgba(0,0,0,0.35) !important;
 }
 .stTextArea textarea::selection {
-    background: rgba(129,140,248,0.4) !important;
-    color: #FFFFFF !important;
+    background: rgba(99,102,241,0.3) !important;
+    color: #1A1916 !important;
 }
 
 /* ── Char count ── */
