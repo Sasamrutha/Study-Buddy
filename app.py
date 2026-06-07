@@ -138,10 +138,7 @@ header {visibility: hidden;}
     font-size: 0.9rem !important;
 }
 
-/* Hide selectbox wrapper box */
-.stSelectbox {
-    display: none !important;
-}
+
 /* ── Textarea ── */
 .stTextArea textarea {
     background: rgba(255,255,255,0.92) !important;
@@ -341,16 +338,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# ── Input glass card ──
-st.markdown('<div class="glass">', unsafe_allow_html=True)
 
-st.markdown('<div class="input-label">Select Subject</div>', unsafe_allow_html=True)
-subject = st.selectbox(
-    "Subject",
-    ["General", "Computer Science", "Mathematics",
-     "Machine Learning", "Networks & Security", "GATE Prep"],
-    label_visibility="collapsed"
-)
 
 st.markdown('<div class="input-label">Enter Your Topic</div>', unsafe_allow_html=True)
 topic = st.text_area(
