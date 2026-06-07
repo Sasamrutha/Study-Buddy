@@ -329,16 +329,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Feature pills ──
-st.markdown("""
-<div class="pill-row">
-    <span class="pill">Plain English Explanations</span>
-    <span class="pill">Revision Notes</span>
-    <span class="pill">Practice Questions</span>
-    <span class="pill">PDF Download</span>
-</div>
-""", unsafe_allow_html=True)
-
-
 
 st.markdown('<div class="input-label">Enter Your Topic</div>', unsafe_allow_html=True)
 topic = st.text_area(
